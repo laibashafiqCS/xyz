@@ -1,0 +1,57 @@
+*{
+text-align: center;
+}
+img{
+    height: 300px;
+    width: 300px;
+    border-radius: 200px;
+}
+
+.main{
+    background-color: #D7D7D7;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.about-me{
+    background-color: #FFEAEA;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.article{
+    background-color: #EAF9FF;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+*{
+    font-family: 'roboto';
+}
+h1{
+    font-size: 60px;
+    
+}
+span{
+    font-size: 80px;
+}
+#second{
+    font-size: 60px;
+}
+h2{
+    font-size: 42px;
+}
+h3{
+    font-size: 36px;
+}
+body{
+    font-size: 20px;
+    margin: no;
+}
+img{
+    width: 250px;
+}
+a{
+    color: #99D930;
+    
+}
+a:hover {
+    color:  #131313;
+  }
